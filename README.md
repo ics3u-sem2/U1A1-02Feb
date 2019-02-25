@@ -37,11 +37,15 @@ NOTE: Class examples and examples from the homework readings are not allowed, th
 5)   WOW me with your CSV Input/Output knowledge.  Create a flowchart and then write a program that uses any valid csv file you have pulled.  Good sources are from a reliable source (Stats Can, a Univ weather site etc.)  Make sure you document where your CSV file is from.
 
 a. Your csv file must have a minimum of 4 columns and
+
 b. A minimum of 10 rows
+
 c. You must write out summary data as applicable.  Examples of the functions you may use are; 
+
                                          i.	Average (no function, but this is just a “Sum” (a built in function) divided by your row data.
                                         ii.	Min (it’s a function)  see Example at https://www.tutorialspoint.com/python3/list_min.htm
                                        iii.	Max (it’s a function)  https://www.tutorialspoint.com/python3/list_max.htm
                                        iv.	Sub totals for a particular subcategory (ie: province vs Canada, time of year Fall vs. Spring.  This  really does depend upon your data and topic.)
+				       
 d.  Your output should be to both screen and csv file.  Make the output to screen look nice.                  
 Have fun with this one!
